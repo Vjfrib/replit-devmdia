@@ -1,4 +1,5 @@
 ! + tab  -  carrega sample
 
+nome-da-tag + tab - cria a tag de abertura e fechamento (fica sublinhado)
 
 ctrl + /  -  comenta tudo

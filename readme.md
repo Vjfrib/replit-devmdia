@@ -1,3 +1,3 @@
-rupture, departure
-
-desenvolvimento e aprendizado
+# rupture, departure
+---
+- desenvolvimento e aprendizado
