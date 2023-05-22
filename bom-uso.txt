@@ -1,0 +1,6 @@
+meta, link, tudo dentro do head...
+
+dica: um h1 por por pag, um grande titulo/ ssunto
+subdivisões criando a hierarquia
+
+lembrando que do h1 a h6 tem premade, mas pode criar h7...
