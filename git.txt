@@ -16,3 +16,5 @@
 
 
 se der checkout, troque de branch, meio que aquela morreu
+
+ctrl + enter
