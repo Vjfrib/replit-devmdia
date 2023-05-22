@@ -13,3 +13,6 @@
     git push                              ou    git push --set-upstream origin main
     git pull
     */
+
+
+se der checkout, troque de branch, meio que aquela morreu

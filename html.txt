@@ -1,0 +1,4 @@
+! + tab  -  carrega sample
+
+
+ctrl + /  -  comenta tudo
