@@ -1,0 +1,36 @@
+atributos (tag img)
+src - source
+alt - alternativa?(acertei)(qndo a img n carrega... bloqueio da net ou diretórios...)
+height & width - (largura e altura)
+title (é o que será exibido ao mouse, junto com a img)
+---------
+atributos para icon
+ <link rel="icon" href="caminho/para/o/icone.ico" type="image/x-icon">
+    <link rel="icon" href="caminho/para/o/icone.png" type="image/png">
+    <link rel="icon" href="caminho/para/o/icone.svg" type="image/svg+xml">
+---------
+-----------------
+
+pergunta - dá pra enviar dados numa url de img? pra passar por requisição script?
+
+
+http://napsi.poli.br/_/rsrc/1513335963390/home/NAPSI%20LOGO.png?height=200&width=162
+
+-----------------
+p2 - qual o significado:
+? na url
+# também
+
+paramentros tal qual  o phySecure, em php
+
+-----------------
+---------
+O símbolo "#" em uma URL é conhecido como fragment identifier ou hash. Ele é usado para se referir a uma seção ou âncora específica dentro de um documento HTML.
+
+qndo se usa ancora em elementos
+---------
+-----------------
+
+
+
+
