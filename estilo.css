@@ -1,0 +1,15 @@
+a {
+    text-decoration: none; 
+    color: rgb(255,0,0);
+    background-color: black;
+    padding: 10px 15px;
+}
+
+/* a {
+    text-decoration: none; 
+    color: black;
+    padding: 10px 15px;
+}
+ aqui, tirando o sublinhado e colocando a cor como... preto, e o bg branco tbm, fica igual ao escrito. de sacanagem, ainda bota o padding, que é a area, o pad, o corte, maior que o texto*/
+
+/* qndo sem, o pad fica um quadrado mt fechadinho */

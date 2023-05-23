@@ -17,3 +17,5 @@ ou melhor diagramar:
 
 foto, nome, lattes
 texto texto
+
+#  vamos de leitura dinamica. meio que já sei algumas coisas. vamos aperfeiçoar
