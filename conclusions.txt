@@ -1,0 +1,21 @@
+bora lá. a base tá ficando boa...
+
+hmmmm, o tamanho da div e centralizar ela. fazer os elementos se alterarem com...
+
+Olha, bem sintetizado: 
+É fundamental utilizar a sintaxe do CSS de forma correta para que os estilos sejam aplicados na página. Todos os estilos devem estar dentro de uma chave de abertura e uma chave de fechamento. Além disso, cada estilo é representado por uma propriedade e seu valor. Essa regra vale para qualquer elemento que terá a aparência mudada no código CSS
+
+
+
+
+/* a {
+    text-decoration: none; 
+    color: black;   /*texto*/
+    padding: 10px 15px;
+}
+ aqui, tirando o sublinhado e colocando a cor como... preto, e o bg branco tbm, fica igual ao escrito. de sacanagem, ainda bota o padding, que é a area, o pad, o corte, maior que o texto*/
+
+/* qndo sem, o pad fica um quadrado mt fechadinho */
+
+
+nominal, numerica

@@ -1,0 +1,208 @@
+<!--              RODA-TETO
+doctype
+html(lang)
+head, body,              (logo mais: footer)
+
+meta(charset), title              (logo mais: link, style)
+h1, p, a(target)
+-->
+
+<!-- meta link style title-->
+
+<!-- cores: https://color.adobe.com/pt/create/color-wheel  full: branco, 0 = preto
+
+http://www2.ecomp.poli.br/ecomp/docentes/
+http://napsi.poli.br/
+http://www.ecomp.poli.br/wp-content/themes/TemaECompResponsivo/style.css
+
+<link rel="stylesheet" id="form_maker_calendar-jos-css" href="http://www.ecomp.poli.br/wp-content/plugins/contact-form-maker/css/calendar-jos.css?ver=4.4.2" type="text/css" media="all">
+-->
+
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <title>Aba</title>
+    <!-- MLS - METAS, LINKS E STYLES. lembrando que name content é o que aparece no google. descreva bem.-->
+    <meta charset="utf-8">
+    <link rel="icon" href="http://www.ecomp.poli.br/wp-content/uploads/2016/04/cropped-TentativaDeIdentidadeDoSite-32x32.png" sizes="32x32">
+  </head>
+  <body>
+<!--  <img src="http://www.ecomp.poli.br/wp-content/themes/TemaECompResponsivo/lib/img/ecomp-graduacao.svg" alt="foto" title="Uni de Pernambuco" height="200" width="200">  -->
+  </body>
+
+</html>
+
+
+
+
+
+
+de preferencia, title primeiro
+<!-- meta link style title-->
+
+meta de conf
+<meta charset="utf-8">
+
+metas de conf para:
+descrição,
+portabilidade
+
+
+
+
+
+
+
+
+
+
+
+
+  <!-- MLS - METAS, LINKS E STYLES. lembrando que name content é o que aparece no google. descreva bem.-->
+  <!-- Lembrando que o tooltip de img é title msm. no bootstrap tem cada um foda. ---> e claro, viewport é portabilidade. codigo
+
+
+<!--  <img src="http://www.ecomp.poli.br/wp-content/themes/TemaECompResponsivo/lib/img/ecomp-graduacao.svg" alt="foto" title="Uni de Pernambuco" height="200" width="200">  -->
+meio que... todas os atributos de img																									src alt title height width
+
+
+
+
+
+
+
+
+
+
+
+
+
+recolocar
+
+
+
+
+
+<!--              RODA-TETO
+doctype
+html(lang)
+head, body,              (logo mais: footer)
+
+meta(charset), title              (logo mais: link, style)
+h1, p, a(target)
+-->
+
+<!-- meta link style title-->
+
+<!-- cores: https://color.adobe.com/pt/create/color-wheel  full: branco, 0 = preto
+
+http://www2.ecomp.poli.br/ecomp/docentes/
+http://napsi.poli.br/
+http://www.ecomp.poli.br/wp-content/themes/TemaECompResponsivo/style.css
+
+<link rel="stylesheet" id="form_maker_calendar-jos-css" href="http://www.ecomp.poli.br/wp-content/plugins/contact-form-maker/css/calendar-jos.css?ver=4.4.2" type="text/css" media="all">
+-->
+
+<!DOCTYPE html>
+<html lang="pt">
+  <head>
+    <title>Aba</title>
+    <!-- MLS - METAS, LINKS E STYLES. lembrando que name content é o que aparece no google. descreva bem.-->
+    <meta charset="utf-8">
+    <link rel="icon" href="http://www.ecomp.poli.br/wp-content/uploads/2016/04/cropped-TentativaDeIdentidadeDoSite-32x32.png" sizes="32x32">
+  </head>
+  <body>
+<!--  <img src="http://www.ecomp.poli.br/wp-content/themes/TemaECompResponsivo/lib/img/ecomp-graduacao.svg" alt="foto" title="Uni de Pernambuco" height="200" width="200">  -->
+  </body>
+
+</html>
+
+
+
+
+
+
+de preferencia, title primeiro
+<!-- meta link style title-->
+
+meta de conf
+<meta charset="utf-8">
+
+metas de conf para:
+descrição,
+portabilidade
+
+  <!-- MLS - METAS, LINKS E STYLES. lembrando que name content é o que aparece no google. descreva bem.-->
+  <!-- Lembrando que o tooltip de img é title msm. no bootstrap tem cada um foda. ---> e claro, viewport é portabilidade. codigo
+
+
+<!--  <img src="http://www.ecomp.poli.br/wp-content/themes/TemaECompResponsivo/lib/img/ecomp-graduacao.svg" alt="foto" title="Uni de Pernambuco" height="200" width="200">  -->
+meio que... todas os atributos de img																									src alt title height width
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- meta, fala pro browser -->
+    
+    <meta name="description" content="Olá, google. Esse projeto eu desenvolvi para treinar desenvolvimento de sistemas. esse será um sistema front-end web, estático, sem interações e responsividade.">
+    <meta charset="pt">
+    <!--  vdd. se vc colocou description, tava querendo que alguem pegue para ler. in pq o noindex? -->
+    <meta name="robots" content="index,nofollow">   <!-- index, follow (pode negar) none & all -->
+
+
+
+
+
+e a view, faz com que o h1 seja do celular. e não do pc. isso o browser que interpreta?
+
+
+<meta name="viewport" content="width=device-width, initial scale=1.1"> (com zoom)
+
+
+
+<link rel="icon" href="logo.svg"> <!-- daqui, já foi. sem dizer o tipo, aparentemente. dizendo o tipo deve ser mais complexo -->
+
+
+
+<!-- <style>
+      body {
+        background-color: #000000;
+      }
+    </style>   ctrl + / esse style ficou como prioridade-->
+
+
+
+
+
+
+
+
+
+dividir algo é transformar ela em um pacote, um conceito e ir usando por aí
+se vc...
+
+
+kkkkk esconder as paradas colocando a msm fonte...
+
+
+
+
+
+
+
+
+
+maria, julia e isabelle
+
+
+
+
+

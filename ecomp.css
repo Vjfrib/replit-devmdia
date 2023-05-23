@@ -1,0 +1,251 @@
+/*
+http://www.ecomp.poli.br/
+http://www.ecomp.poli.br/wp-content/themes/TemaECompResponsivo/style.css
+
+
+Theme Name: Tema Ecomp
+Theme URI: ---
+Description: Tema criado para dar suporte ao curso de Engenharia de ComputaÃ§Ã£o da Universidade de Pernambuco
+Author: CÃ©sar Santana
+Author URI: --
+Version: 1.0
+Tags: Engenharia de ComputaÃ§Ã£o, CiÃªncia da ComputaÃ§Ã£o, UPE, POLI, EducaÃ§Ã£o, Responsivo, Blue, White
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+*/
+ 
+/* Bootstrap core CSS */
+
+/* Se preferir utilizar a prÃ³pria cÃ³pia do Bootstrap, descomente a linha a seguir e comente a prÃ³xima */
+/*@import url('lib/bootstrap/3.3.5/css/bootstrap.min.css');*/
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css');
+
+/* Custom styles for this template */
+
+body { 
+    padding-top: 10px; 
+    padding-bottom: 0px; 
+    background-color: #F0F0F0;
+    font-family: Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+
+
+
+}
+
+.logo-formulario{margin-top: 20px;
+				  margin-bottom: 20px; 	}
+.search-form{width: 50%; padding: 5px; margin-left:auto; margin-right: auto; margin-top: 7%; margin-bottom: 5%;}
+
+
+
+/*ProgramaÃ§Ã£o ferente a estetica do menu*/
+
+.navbar-default .navbar-toggle .icon-bar {background-color: #fff;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus {
+    color: #fff;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-nav>.active>a:hover {
+	
+    color: #fff;
+    background-color: #1e72bd;
+}
+
+.dropdown-menu {
+	background-color: #1e72bd;
+}
+
+.navbar-default .navbar-brand {color: #fff;
+				font-family: "Roboto","franklin-gothic-urw-comp-n4", "franklin-gothic-urw-comp", "league-gothic-n4", "league-gothic", "league-gothic-backup", "league-gothic-local", "HelveticaNeue", Verdana, sans-serif;
+				font-size: 15px;	
+					}
+
+
+.navbar-default .navbar-brand:hover {
+	 color: #fff;   
+	 background-color: #1e72bd;
+}
+
+.navbar-default .navbar-nav>li>a {color: #fff;
+				   font-family: "Roboto", "franklin-gothic-urw-comp-n4", "franklin-gothic-urw-comp", "league-gothic-n4", "league-gothic", "league-gothic-backup", "league-gothic-local", "HelveticaNeue", Verdana, sans-serif;
+				font-size: 15px;	
+
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+	 color: #fff;   
+	 background-color: #1e72bd;
+}
+
+
+.dropdown-menu>li>a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    font-family: "Roboto", "franklin-gothic-urw-comp-n4", "franklin-gothic-urw-comp", "league-gothic-n4", "league-gothic", "league-gothic-backup", "league-gothic-local", "HelveticaNeue", Verdana, sans-serif; 	
+    line-height: 1.42857143;
+    color: #fff;
+    white-space: nowrap;
+    font-size: 15px;	
+}
+
+
+.dropdown-menu>li>a:hover {
+  background-color:#326699;
+}
+
+.navbar-form {padding-top: 40px;}
+
+.navbar-inverse .navbar-nav > .current_page_item > a,
+.navbar-inverse .navbar-nav > .current_page_item > a:hover,
+.navbar-inverse .navbar-nav > .current_page_item > a:focus,
+.navbar-inverse .navbar-nav > .current_page_parent > a,
+.navbar-inverse .navbar-nav > .current_page_parent > a:hover,
+.navbar-inverse .navbar-nav > .current_page_parent > a:focus {
+    color: #fff;	
+    background-color: #080808;
+    font-family: "Roboto","franklin-gothic-urw-comp-n4", "franklin-gothic-urw-comp", "league-gothic-n4", "league-gothic", "league-gothic-backup", "league-gothic-local", "HelveticaNeue", Verdana, sans-serif;
+    font-size: 15px;	 	
+}
+
+.navbar-custom {background-color: #326699;
+				margin-bottom: 15px;}
+.navbar-collapse-custom a {color: #fff;
+			   font-family: "Roboto", "franklin-gothic-urw-comp-n4", "franklin-gothic-urw-comp", "league-gothic-n4", "league-gothic", "league-gothic-backup", "league-gothic-local", "HelveticaNeue", Verdana, sans-serif; 
+			font-size: 15px;
+}
+
+.navbar-header-customize a {color: #fff;
+			   font-family: "Roboto", "franklin-gothic-urw-comp-n4", "franklin-gothic-urw-comp", "league-gothic-n4", "league-gothic", "league-gothic-backup", "league-gothic-local", "HelveticaNeue", Verdana, sans-serif;
+			    font-size: 15px;	}
+
+.rodape { padding: 20px; }
+.sobre a {color: #fff;
+	  font-family:"franklin-gothic-urw-comp",sans-serif;}
+.sobre p {color: #fff;
+	  font-family:"franklin-gothic-urw-comp",sans-serif;	}
+
+
+
+
+.container-imagem {
+	padding: 0px 0px 0px 0px;
+	margin-bottom: 15px;
+}
+
+.mapa {background-color: #DCDCDC;
+	   margin: 10px;
+	   padding: 10px;
+	   border-radius: 5px;
+}
+.mapa h3 {padding-left: 12px;
+	  font-family:"franklin-gothic-urw-comp",sans-serif;}
+
+.sobre {padding: 40px 20px 40px 20px;}
+
+.list-group li {background-color: #DCDCDC;}
+
+.list-group-item-novo {background-color: #fff;}
+
+/* Docentes */
+li.list-group-item.list-group-item-novo { background-color: #fff;
+					 border-radius: 0px 0px 0px 0px;	
+					 box-shadow: 0px 0px 3px #444;
+					 min-width: 150px;
+					 min-height: 410px;
+					 margin: 0px -10px 0px 0px; 
+					font-family:Lato,arial,helvetica,tahoma,verdana,sans-serif!important;font-                	size:9pt!important;outline-style:none;outline-width:0;line-height:1em}
+					
+li.list-group-item.list-group-item-novo font,p,h1,h2 {font-family: Lato;}
+
+li.list-group-item.list-group-item-novo font {color: #32689c;}
+
+li.list-group-item.list-group-item-novo h1 {font-size: 14px;
+					     margin-top: 0px;
+					    color: #222;
+					   font-weight: bold;}
+
+li.list-group-item.list-group-item-novo span { color: #005999;
+					        font-size: 16px;}
+
+li.list-group-item.list-group-item-novo h2 {font-size: 13px; }
+li.list-group-item.list-group-item-novo p { font-size: 12px;
+					    text-align: left;	
+					    #D7D7D7;	
+					    color: #aaa;}
+
+
+
+
+/*Final do cÃ³digo para professores*/
+
+.noticias-dinamicas li {			
+						background-color: #F0F0F0;
+						border-color: #DCDCDC;
+						padding-left: 20px;}
+
+.noticias-dinamicas a {color: #000;}
+
+.cinco-colunas { background-color: #F0F0F0; 
+				float: left;}
+
+
+.cinco-colunas-dois {float: left;
+					background-color: #fafafa;
+					box-sizing: border-box;
+					padding: 55px 30px 55px 30px;
+					border-radius: 4px;
+					margin-bottom: 15px;
+					}
+
+
+.imgs {padding-top: 15px;}
+
+.caixa {border-style: solid;
+		border-color: #F0F0F0;
+		border-width: 0.2px;
+		border-radius: 5px;
+		margin-left: 0px;
+		margin-right: 0px;
+		box-sizing: border-box;
+		padding: 15px;
+		min-height: 260px
+		
+		}
+
+.icon-center{
+	text-align: center;
+	width: 100%
+}
+
+.caixa h3 {font-size: 13px;
+			font-weight: bold;}
+
+.list-group li a {color: #000;
+		  font-family:"franklin-gothic-urw-comp",sans-serif;}
+
+.caixa p {font-size: 13px;
+	  font-family: Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+	}
+
+.caixa a {color: #000;
+	  text-align: justify;
+	  font-family: Georgia, "Times New Roman", "Bitstream Charter", Times, serif;
+
+	  }
+
+.glyphicon{font-size: 40px;
+			color:#326699;
+			/*padding-left: 35%;
+			padding-top: 10%;
+			*/
+		}
+.glyphicon-chevron-down {
+
+	font-size: 10px;
+	color: #000000;
+	position: lefe}
