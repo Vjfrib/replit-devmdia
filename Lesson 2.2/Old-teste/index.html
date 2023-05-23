@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<!-- https://89c39c65-bb66-4c52-8130-407bb08e5a28.id.repl.co/ -->
+<html lang="pt">
+  <head>
+    Cabeçalho
+    <meta charset="utf-8">
+  </head>
+  
+<body >
+  <h1 style="font-size: 40px, font-weight:12% ;">Loja de computadores</h1>
+  <h2>Lenovo</h2> <!-- subcategorias -->
+  <p>preço: 2,999</p>
+  
+<h1 style="font-size: 60px;">basico</h1>
+  
+<h1>teste h1</h1>
+  <h2>teste h2</h2>
+  <h3>testeh 3</h3>
+  <h4>teste h4</h4>  <br>
+<b>teste b</b>
+<h7>teste h7</h7> <!-- aparentemente, o h7, é perto do p e do h4 (tipo um p bold) -->
+  <h5>teste h5</h5>
+  <h6>teste h6</h6>
+  <p>teste p</p>
+  <b>teste b</b>
+
+  <h1 style="font-size: 60px;">formulario</h1>
+  <form action="/processar-formulario" method="POST">
+  <!-- Campo de texto -->
+  <label for="campo-texto">Campo de Texto:</label>
+  <input type="text" id="campo-texto" name="campo_texto" class="campo" placeholder="Digite seu texto" required>
+<br>
+  <!-- Campo de senha -->
+  <label for="campo-senha">Campo de Senha:</label>
+  <input type="password" id="campo-senha" name="campo_senha" class="campo" minlength="8" required>
+<br>
+  <!-- Campo de número -->
+  <label for="campo-numero">Campo Numérico:</label>
+  <input type="number" id="campo-numero" name="campo_numero" class="campo" min="1" max="100" step="1" required>
+<br>
+  <!-- Campo de e-mail -->
+  <label for="campo-email">Campo de Email:</label>
+  <input type="email" id="campo-email" name="campo_email" class="campo" required>
+<br>
+  <!-- Checkbox -->
+  <label for="checkbox">Checkbox:</label>
+  <input type="checkbox" id="checkbox" name="checkbox" class="campo">
+<br>
+  <!-- Radio buttons -->
+  <label for="radio1">Opção 1:</label>
+  <input type="radio" id="radio1" name="radio" value="opcao1" class="campo" checked>
+<br>
+  <label for="radio2">Opção 2:</label>
+  <input type="radio" id="radio2" name="radio" value="opcao2" class="campo">
+<br>
+  <!-- Campo de arquivo -->
+  <label for="campo-arquivo">Campo de Arquivo:</label>
+  <input type="file" id="campo-arquivo" name="campo_arquivo" class="campo">
+<br>
+  <!-- Botão de envio -->
+  <input type="submit" value="Enviar" id="botao-enviar" class="botao">
+<br>
+</form>
+        <h1 style="font-size: 60px;">lista</h1>
+  <ul>
+  <li>Tag de Parágrafo: <code>&lt;p&gt;</code></li>
+  <li>Tag de Cabeçalho: <code>&lt;h1&gt;</code></li>
+  <li>Tag de Lista: <code>&lt;ul&gt;</code></li>
+</ul>
+
+  <h1 style="font-size: 60px;">tabela</h1>
+  <table>
+  <thead>
+    <tr>
+      <th>Atributo</th>
+      <th>Descrição</th>
+      <th>Exemplo</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>colspan</code></td>
+      <td>Especifica o número de colunas que uma célula deve abranger.</td>
+      <td><code>&lt;td colspan="2"&gt;</code></td>
+    </tr>
+    <tr>
+      <td><code>rowspan</code></td>
+      <td>Especifica o número de linhas que uma célula deve abranger.</td>
+      <td><code>&lt;td rowspan="3"&gt;</code></td>
+    </tr>
+    <tr>
+      <td><code>class</code></td>
+      <td>Especifica uma ou mais classes CSS para o elemento.</td>
+      <td><code>&lt;td class="destaque"&gt;</code></td>
+    </tr>
+    <tr>
+      <td><code>style</code></td>
+      <td>Especifica estilos CSS inline para o elemento.</td>
+      <td><code>&lt;td style="color: blue; font-size: 16px;"&gt;</code></td>
+    </tr>
+  </tbody>
+</table>
+
+
+</body>
+  
+  <footer>
+    <h1 style="font-size: 60px;">footer: img. </h1>
+    <p>faltou "ol"</p>
+    <a href="" target="_blank">
+      <img src="https://i.scdn.co/image/ab67616d0000b2734f0f9ef8c709c8451f0088df">
+      <!-- musashi -->
+    </a>
+  </footer>
+</html>
+
+<!--
+TAGS QUE USEI PARA STRUTUAR O DOCUMENTO HTML
+                                        ---
+doctype - definir versão
+html - aninhar todas as tags
+meta - dados                                                       n fecha
+link - outros docs (principalmene link de css, que tbm é html)
+scripts - interaçõs além do link.
+                                        ---
+head, body & footer - divisões do texto
+div - divisões (granes porções)
+span - pequenas porçoes
+br - break, pula                                                      n fecha
+                                        ---
+h1 à h6 - titulos
+p - paragrafo
+a - link (href)
+img - foto, poe aninhar dentro de link                                                       n fecha
+input type/name - poe aninhar dentro de link                                                 n fecha
+                                        ---
+blockquote - citação  aparentemente tem q, cite...
+u,i,b - under, italic, bold
+strong
+
+HTML Entity Encoding
+                                        ---
+&nbsp; representa um espaço não quebrável.

@@ -1,0 +1,20 @@
+    GIT - CONF E COMMAND
+
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+    git push origin HEAD:refs/heads/<nova branch, caso precise>
+
+    lembrando que temos:
+    git add .                                  <o ponto serve pra add tudo>
+    git commit                              -m <comment> ou :wq (write and quit)
+    git checkout <hash>
+    git checkout -b <brach nova>
+    git checkout -b <brach nova> <hash>
+    git push                              ou    git push --set-upstream origin main
+    git pull
+    */
+
+
+se der checkout, troque de branch, meio que aquela morreu
+
+ctrl + enter

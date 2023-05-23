@@ -1,0 +1,36 @@
+descrições aqui======
+=====================
+
+! + tab  -  carrega sample
+
+nome-da-tag + tab - cria a tag de abertura e fechamento (fica sublinhado)
+
+ctrl + /  -  comenta tudo
+
+dar um <a> + target blank + href vazio - entrega o link do replit
+https://89c39c65-bb66-4c52-8130-407bb08e5a28.id.repl.co/
+
+ <title>Título da Página</title>
+  <link rel="icon" href="caminho/para/o/icone.png" type="image/png">
+
+-----------
+
+Para substituir todas as variáveis com o mesmo nome, você pode usar a combinação de teclas CTRL + E no Replit. Isso irá selecionar todas as instâncias de uma variável ou palavra que você queira substituir.
+
+Para substituir todas as instâncias de um nome por outro, você pode usar a combinação de teclas CTRL + H, que irá abrir uma janela de pesquisa e substituição de texto no editor.
+
+-----------
+
+<label for="nome">Nome:</label>
+<input type="text" id="nome" name="nome">
+
+
+name - o social, que aparece.
+id - cpf, credencial usada pelo script
+
+-----------
+aparentemente não é, mas usando o botão dir, aparecem opções
+
+Para organizar o código, você pode usar a funcionalidade "formatar código automaticamente" no Replit IDE. Para fazê-lo, basta pressionar as teclas "Ctrl + Shift + F" no Windows ou "Cmd + Shift + F" no MacOS.
+
+Para ver a lista completa de atalhos do Replit IDE, você pode ir para o menu "Ajuda" na barra superior e clicar em "Atalhos do teclado" ou pressionar "Ctrl + /" no Windows ou "Cmd + /" no MacOS para obter a lista de atalhos rapidamente.
